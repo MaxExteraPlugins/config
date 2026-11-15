@@ -30,6 +30,51 @@
       },
       "icon": "msg_help",
       "url": "https://t.me/itNotMax"
+    },
+    {
+      "title": {
+        "ru": "Исходный код",
+        "en": "Source code"
+      },
+      "icon": "msg_link",
+      "url": {
+        "add_to_folder": "https://github.com/MaxExteraPlugins/add_to_folder",
+        "animated_new_messages": "https://github.com/MaxExteraPlugins/animated_new_messages",
+        "animated_new_messages_fixed": "https://github.com/MaxExteraPlugins/animated_new_messages",
+        "archiver": "https://github.com/MaxExteraPlugins/archiver",
+        "audio_router": "https://github.com/MaxExteraPlugins/audio_router",
+        "auto_scroll": "https://github.com/MaxExteraPlugins/auto_scroll",
+        "censorify": "https://github.com/MaxExteraPlugins/censorify",
+        "custom_recent_reactions": "https://github.com/MaxExteraPlugins/custom_recent_reactions",
+        "custom_shortcuts": "https://github.com/MaxExteraPlugins/custom_shortcuts",
+        "delete_from_gallery": "https://github.com/MaxExteraPlugins/delete_from_gallery",
+        "ege_trainer": "https://github.com/MaxExteraPlugins/ege_trainer",
+        "extera_max": "https://github.com/MaxExteraPlugins/extera_max",
+        "ExteraMax": "https://github.com/MaxExteraPlugins/extera_max",
+        "fast_answers": "https://github.com/MaxExteraPlugins/fast_answers",
+        "folder_control": "https://github.com/MaxExteraPlugins/folder_control",
+        "hide_pinned_messages": "https://github.com/MaxExteraPlugins/hide_pinned_messages",
+        "max_music_stats": "https://github.com/MaxExteraPlugins/max_music_stats",
+        "max_reextera": "https://github.com/MaxExteraPlugins/max_reextera",
+        "max_trace": "https://github.com/MaxExteraPlugins/max_trace",
+        "MaxTrace": "https://github.com/MaxExteraPlugins/max_trace",
+        "mute_master": "https://github.com/MaxExteraPlugins/mute_master",
+        "notification_center": "https://github.com/MaxExteraPlugins/notification_center",
+        "participants_channels": "https://github.com/MaxExteraPlugins/participants_channels",
+        "pause_voices": "https://github.com/MaxExteraPlugins/pause_voices",
+        "pill_stack_to_header": "https://github.com/MaxExteraPlugins/pill_stack_to_header",
+        "plugin_share": "https://github.com/MaxExteraPlugins/plugin_share",
+        "plugin_update_checker": "https://github.com/MaxExteraPlugins/plugin_update_checker",
+        "read_all": "https://github.com/MaxExteraPlugins/read_all",
+        "read_any": "https://github.com/MaxExteraPlugins/read_any",
+        "search_bar_control": "https://github.com/MaxExteraPlugins/search_bar_control",
+        "shareui_dkta_fixed": "https://github.com/MaxExteraPlugins/shareui_dkta_fixed",
+        "status_adder": "https://github.com/MaxExteraPlugins/status_adder",
+        "temp_sub": "https://github.com/MaxExteraPlugins/temp_sub",
+        "todo_list": "https://github.com/MaxExteraPlugins/todo_list",
+        "unlinked_stickers": "https://github.com/MaxExteraPlugins/unlinked_stickers",
+        "wide_messages": "https://github.com/MaxExteraPlugins/wide_messages"
+      }
     }
   ]
 }

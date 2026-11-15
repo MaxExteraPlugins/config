@@ -1,7 +1,35 @@
 {
   "channel_username": "MaxExteraPlugins",
   "channel_url": "https://t.me/MaxExteraPlugins",
-  "donate_url": "",
-  "bug_report_url": "https://t.me/itNotMax",
-  "trial_days": 7
+  "trial_days": 7,
+  "header": {
+    "ru": "MaxExteraPlugins",
+    "en": "MaxExteraPlugins"
+  },
+  "buttons": [
+    {
+      "title": {
+        "ru": "Канал автора",
+        "en": "Author's Channel"
+      },
+      "icon": "msg_channel",
+      "url": "https://t.me/MaxExteraPlugins"
+    },
+    {
+      "title": {
+        "ru": "Поддержать автора",
+        "en": "Support author"
+      },
+      "icon": "msg_share",
+      "url": "https://t.me/itNotMax"
+    },
+    {
+      "title": {
+        "ru": "Сообщить о баге",
+        "en": "Report a bug"
+      },
+      "icon": "msg_help",
+      "url": "https://t.me/itNotMax"
+    }
+  ]
 }

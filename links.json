@@ -64,6 +64,7 @@
         "plugin_exporter": "https://github.com/MaxExteraPlugins/plugin_exporter",
         "plugin_share": "https://github.com/MaxExteraPlugins/plugin_share",
         "plugin_update_checker": "https://github.com/MaxExteraPlugins/plugin_update_checker",
+        "proxy_manager": "https://github.com/MaxExteraPlugins/proxy_manager",
         "read_all": "https://github.com/MaxExteraPlugins/read_all",
         "read_any": "https://github.com/MaxExteraPlugins/read_any",
         "scam_marker": "https://github.com/MaxExteraPlugins/scam_marker",
